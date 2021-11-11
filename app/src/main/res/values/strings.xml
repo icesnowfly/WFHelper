@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WFHelper</string>
+    <string name="start_button_name">打开悬浮窗</string>
+</resources>
